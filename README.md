@@ -1,4 +1,4 @@
-# Sports vs Politics Text Classification
+# Problem-4: Sports vs Politics Text Classification
 
 Binary text classification system to distinguish between Sports and Politics news articles using machine learning.
 
